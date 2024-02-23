@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRYcrxYD0EEMPcKCipfCR6mv823Td1wTXp3cbPAtdSpMJV6jsIatsFThGOky+mNY2yjLXTUCFun3kRpfb9nseQ==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\FU_Spring24\\PRN211\\PRN211_SE1752\\PT2_PRN211\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachLH\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\bachLH\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\bachLH\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\bachLH\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\bachLH\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\bachLH\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\bachLH\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\bachLH\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
